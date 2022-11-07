@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-FixtureMundial2022/static/css/main.26f78fd5.css",
-    "main.js": "/React-FixtureMundial2022/static/js/main.717cf3cf.js",
+    "main.js": "/React-FixtureMundial2022/static/js/main.02706c5a.js",
     "static/media/LogoCatarSinFondo.png": "/React-FixtureMundial2022/static/media/LogoCatarSinFondo.014a527fdc5c55db62d6.png",
     "static/media/TituloQatar2.png": "/React-FixtureMundial2022/static/media/TituloQatar2.eb47e7ca31229ba94161.png",
     "static/media/gales.png": "/React-FixtureMundial2022/static/media/gales.fc4e12232cc30ce7a3c3.png",
@@ -23,10 +23,10 @@
     "static/media/marruecos.png": "/React-FixtureMundial2022/static/media/marruecos.6d1b36ede20b7c7d7c29.png",
     "index.html": "/React-FixtureMundial2022/index.html",
     "main.26f78fd5.css.map": "/React-FixtureMundial2022/static/css/main.26f78fd5.css.map",
-    "main.717cf3cf.js.map": "/React-FixtureMundial2022/static/js/main.717cf3cf.js.map"
+    "main.02706c5a.js.map": "/React-FixtureMundial2022/static/js/main.02706c5a.js.map"
   },
   "entrypoints": [
     "static/css/main.26f78fd5.css",
-    "static/js/main.717cf3cf.js"
+    "static/js/main.02706c5a.js"
   ]
 }
